@@ -1,0 +1,6 @@
+nytimes_data/train/sports/2014-nyc-marathon-with-gadgetry-race-may-be-watched-like-no-other.html
+nytimes_data/train/sports/2-penguins-have-mumps.html
+nytimes_data/train/sports/4-sec-west-teams-are-in-top-5.html
+nytimes_data/train/arts/christine-mcvie-rejoins-fleetwood-mac-at-the-garden.html
+nytimes_data/train/technology/amazon-not-as-unstoppable-as-it-may-appear.html
+nytimes_data/train/travel/restaurant-report-le-canon-in-nice-france.html
